@@ -63,10 +63,6 @@ Suppose you have a CSV file `places.csv` containing information about various pl
 
 Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 Feel free to adjust the paths and details according to your specific use case and preferences.
